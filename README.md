@@ -8,4 +8,4 @@
 
 
 
-<img src="https://github.com/aianaconda/TensorFlow2x_Engineering_Implementation/blob/master/tf2x.jpg" width="200" />
+<img src="https://github.com/aianaconda/TensorFlow2x_Engineering_Implementation/raw/master/tf2x.jpg" width="200" />
